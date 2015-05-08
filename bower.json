@@ -1,0 +1,25 @@
+{
+  "name": "BT Frontend",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kingian/uaf_2015",
+  "description": "This is the front end for the 2015 UAF bullet time rig",
+  "main": "index.html",
+  "authors": [
+    "Tyler Morgan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "!.bowerrc",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "jquery.ui": "~1.11.4",
+    "slick-carousel": "~1.5.3"
+  }
+}
